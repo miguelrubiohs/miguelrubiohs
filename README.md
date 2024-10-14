@@ -52,8 +52,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+### 🗃 &nbsp;Herramientas de Microsoft
+
+![Excel](https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Word](https://img.shields.io/badge/microsoft%20word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
+![PowerPoint](https://img.shields.io/badge/microsoft%20powerpoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+![SharePoint](https://img.shields.io/badge/sharepoint-0078D7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
+![PowerApps](https://img.shields.io/badge/microsoft%20powerapps-7D1D99?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)&nbsp;
+![Forms](https://img.shields.io/badge/microsoft%20forms-4B89D1?style=for-the-badge&logo=microsoft-forms&logoColor=white)&nbsp;
+![Others](https://img.shields.io/badge/others-000000?style=for-the-badge&logoColor=white)&nbsp;
+
 
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
