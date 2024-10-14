@@ -20,7 +20,7 @@
 
 ✉️ &nbsp;¡Puedes enviarme un correo a mig.rubio@duocuc.cl , Trataré de responder lo antes posible.
 
-📄 &nbsp;Puedes revisar mi [Currículum](https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/Miguel_Rubiohs_cv) para más detalles sobre mí.
+📄 &nbsp;Puedes revisar mi [Currículum](https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/Miguel_Rubiohs_cv.pdf) para más detalles sobre mí.
 
 <img alt="Programación Nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
