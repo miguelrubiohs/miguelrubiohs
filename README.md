@@ -1,5 +1,5 @@
 
-<img src="https://github.com/miguelrubiohs/miguelrubiohs/blob/main/Banner-01.jpeg" alt="Miguel Ángel Banner" width="120%" height="400px">
+<img src="https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/Banner-01.jpeg" alt="Miguel Ángel Banner" width="120%" height="400px">
 
 
 <img alt="Programación Nocturna" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Miguel Rubio Hoskins</h2>
@@ -20,7 +20,7 @@
 
 ✉️ &nbsp;¡Puedes enviarme un correo a mig.rubio@duocuc.cl , Trataré de responder lo antes posible.
 
-📄 &nbsp;Puedes revisar mi [Currículum](#) para más detalles sobre mí.
+📄 &nbsp;Puedes revisar mi [Currículum](https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/Miguel_Rubiohs_cv) para más detalles sobre mí.
 
 <img alt="Programación Nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
