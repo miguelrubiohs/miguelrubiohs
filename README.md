@@ -22,7 +22,8 @@
 
 📄 &nbsp;Puedes revisar mi [Currículum](https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/Miguel_Rubiohs_cv.pdf) para más detalles sobre mí.
 
-<img alt="Programación Nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Programación Nocturna" src="https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/giphy_git.webp" align="right" width="150" />
+
 
 ### 🛠 &nbsp;Conjunto de Tecnologías
 
