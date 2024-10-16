@@ -67,8 +67,8 @@
 
 ### 🚀 &nbsp;Proyectos
 
-<h3 align="center">📂 Proyectos</h3>
-<p align="center">
+
+<p align="">
   <a href="https://github.com/miguelrubiohs/tu-proyecto-1">
     <img src="https://img.shields.io/badge/Proyecto%201-0073e6?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 1"/>
   </a>
@@ -79,6 +79,22 @@
     <img src="https://img.shields.io/badge/Proyecto%203-0073e6?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 3"/>
   </a>
 </p>
+
+### 🌐 &nbsp;Páginas Web
+
+
+<p align="">
+  <a href="https://aquacien.cl/" target="_blank">
+    <img src="https://img.shields.io/badge/Aquacien-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Aquacien"/>
+  </a>
+  <a href="https://crisantspa.cl/" target="_blank">
+    <img src="https://img.shields.io/badge/Crisantspa-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Crisantspa"/>
+  </a>
+  <a href="https://reikinatural.cl/" target="_blank">
+    <img src="https://img.shields.io/badge/Reikinatural-0073e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Reikinatural"/>
+  </a>
+</p>
+
 
 
 ### 🛠 &nbsp;Habilidades de Programación
