@@ -65,6 +65,21 @@
 ![Forms](https://img.shields.io/badge/microsoft%20forms-4B89D1?style=for-the-badge&logo=microsoft-forms&logoColor=white)&nbsp;
 ![Others](https://img.shields.io/badge/others-000000?style=for-the-badge&logoColor=white)&nbsp;
 
+### 🚀 &nbsp;Proyectos
+
+<h3 align="center">📂 Proyectos</h3>
+<p align="center">
+  <a href="https://github.com/miguelrubiohs/tu-proyecto-1">
+    <img src="https://img.shields.io/badge/Proyecto%201-0073e6?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 1"/>
+  </a>
+  <a href="https://github.com/miguelrubiohs/tu-proyecto-2">
+    <img src="https://img.shields.io/badge/Proyecto%202-0073e6?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 2"/>
+  </a>
+  <a href="https://github.com/miguelrubiohs/tu-proyecto-3">
+    <img src="https://img.shields.io/badge/Proyecto%203-0073e6?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto 3"/>
+  </a>
+</p>
+
 
 ### 🛠 &nbsp;Habilidades de Programación
 
