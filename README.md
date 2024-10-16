@@ -66,16 +66,17 @@
 ![Others](https://img.shields.io/badge/others-000000?style=for-the-badge&logoColor=white)&nbsp;
 
 
-### ⚙️ &nbsp;Estadísticas de GitHub
+### 🛠 &nbsp;Habilidades de Programación
+
 
 <p align="center">
-  <a href="https://github.com/miguelangelrh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelangelrh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/miguelrubiohs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelrubiohs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/miguelangelrh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelangelrh&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelrh&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrubiohs&theme=dark&hide_border=true"/>
 </p>
+
+
