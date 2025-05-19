@@ -20,10 +20,6 @@
 
 <img alt="Programación Nocturna" src="https://github.com/miguelrubiohs/miguelrubiohs/blob/main/not/giphy_git.webp" align="right" width="150" />
 
-
-
-### 🛠 &nbsp;Conjunto de Tecnologías
-
 ### 🛠 &nbsp;Conjunto de Tecnologías
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -55,6 +51,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### 🗃 &nbsp;Herramientas de Microsoft
 
